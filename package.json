@@ -1,0 +1,12 @@
+{
+  "name": "v-show-password-input",
+  "version": "1.0.0",
+  "description": "Vue directive that allows you to confirm password.",
+  "main": "v-show-password-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["password", "input"],
+  "author": "Sukohi Kuhoh",
+  "license": "MIT"
+}
