@@ -1,6 +1,6 @@
 {
   "name": "v-show-password-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue directive that allows you to confirm password.",
   "main": "v-show-password-input.js",
   "scripts": {

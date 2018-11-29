@@ -29,6 +29,18 @@ You also can use this directive with `v-model` like so.
 
     </script>
     
+# in IE 11 or edge
+
+IE and edge have a feature that allows you to confirm password inputted by default.  
+So, if you would like to use `v-show-password-input` in their browsers, please add the followings to disable the standard feature.
+
+    <style>
+
+        ::-ms-clear { display: none; }
+        ::-ms-reveal { display: none; }
+
+    </style>
+    
 # License
 
 This package is licensed under the MIT License.
